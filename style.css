@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+}
+
+main#container {
+    background-color:blue;
+    border-radius: 23px;
+    
+}
+
+h1.titulo {
+    color: red ;
+}
+
+p.frase {
+    color: red;
+}
+
+p.autor {
+    color:red;
+}
